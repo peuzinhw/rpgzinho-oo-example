@@ -1,0 +1,15 @@
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.csproj.AssemblyReference.cache
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.AssemblyInfoInputs.cache
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.AssemblyInfo.cs
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\workspace\rpgzinho\bin\Debug\net6.0\rpgzinho.exe
+C:\Users\Pedro\workspace\rpgzinho\bin\Debug\net6.0\rpgzinho.deps.json
+C:\Users\Pedro\workspace\rpgzinho\bin\Debug\net6.0\rpgzinho.runtimeconfig.json
+C:\Users\Pedro\workspace\rpgzinho\bin\Debug\net6.0\rpgzinho.dll
+C:\Users\Pedro\workspace\rpgzinho\bin\Debug\net6.0\rpgzinho.pdb
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.dll
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\refint\rpgzinho.dll
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.pdb
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\rpgzinho.genruntimeconfig.cache
+C:\Users\Pedro\workspace\rpgzinho\obj\Debug\net6.0\ref\rpgzinho.dll
